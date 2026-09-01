@@ -4,11 +4,15 @@
       "gender": "female",
       "aliases": [
         "Nashida",
-        "Naxi da"
+        "Naxi da",
+        "Buer"
       ]
     },
     "Greater Lord Rukkhadevata": {
-      "gender": "female"
+      "gender": "female",
+      "aliases": [
+        "Rukkhadevata"
+      ]
     },
     "Lord Rukkhadevata": {
       "gender": "female"
@@ -24,4 +28,3 @@
     }
   }
 }
-
