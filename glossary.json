@@ -1,7 +1,8 @@
 {
   "characters": {
     "Nahida": {
-      "gender": "female"
+      "gender": "female",
+      "aliases": ["Nahida"]
     },
     "Anastasia": {
       "gender": "female"
