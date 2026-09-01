@@ -1,7 +1,20 @@
 {
   "wtr-lab.com/en/novel/79529/": {
     "title": "Genshin Impact: Become the Ice God, Starting from Construction Until Winter",
+    "description": "No romantic pairing + Genshin Impact + Honkai Impact 3rd + world-building + powerful male protagonist.",
+    "genre": "Action, Adventure, Comedy, Fan-fiction, Fantasy, Game, Slice-of-life",
     "novellink": "https://wtr-lab.com/en/novel/79529/genshin-impact-become-the-ice-god-starting-from-construction-until-winter",
+    "carryParagraphs": 3,
+    "upgrades": {
+      "anchoredFixes": true,
+      "verbBasedWindow": true,
+      "passiveVoice": true,
+      "dialogueSpeaker": true,
+      "roleHeuristicCarry": true,
+      "onlyChangeIfWrong": true,
+      "termMemoryAssist": true,
+      "enforcePinnedTermsOnPlainText": true
+    },
     "characters": {
       "Nahida": {
         "gender": "female",
@@ -29,6 +42,7 @@
       "Ei": {
         "gender": "female"
       }
-    }
+    },
+    "terms": {}
   }
 }
