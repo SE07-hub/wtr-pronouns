@@ -1,30 +1,34 @@
 {
-  "characters": {
-    "Nahida": {
-      "gender": "female",
-      "aliases": [
-        "Nashida",
-        "Naxi da",
-        "Buer"
-      ]
-    },
-    "Greater Lord Rukkhadevata": {
-      "gender": "female",
-      "aliases": [
-        "Rukkhadevata"
-      ]
-    },
-    "Lord Rukkhadevata": {
-      "gender": "female"
-    },
-    "Anastasia": {
-      "gender": "female"
-    },
-    "Makoto": {
-      "gender": "female"
-    },
-    "Ei": {
-      "gender": "female"
+  "wtr-lab.com/en/novel/79529/": {
+    "title": "Genshin Impact: Become the Ice God, Starting from Construction Until Winter",
+    "novellink": "https://wtr-lab.com/en/novel/79529/genshin-impact-become-the-ice-god-starting-from-construction-until-winter",
+    "characters": {
+      "Nahida": {
+        "gender": "female",
+        "aliases": [
+          "Nashida",
+          "Naxi da",
+          "Buer"
+        ]
+      },
+      "Greater Lord Rukkhadevata": {
+        "gender": "female"
+      },
+      "Lord Rukkhadevata": {
+        "gender": "female"
+      },
+      "Rukkhadevata": {
+        "gender": "female"
+      },
+      "Anastasia": {
+        "gender": "female"
+      },
+      "Makoto": {
+        "gender": "female"
+      },
+      "Ei": {
+        "gender": "female"
+      }
     }
   }
 }
