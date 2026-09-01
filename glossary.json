@@ -2,7 +2,16 @@
   "characters": {
     "Nahida": {
       "gender": "female",
-      "aliases": ["Nahida"]
+      "aliases": [
+        "Nashida",
+        "Naxi da"
+      ]
+    },
+    "Greater Lord Rukkhadevata": {
+      "gender": "female"
+    },
+    "Lord Rukkhadevata": {
+      "gender": "female"
     },
     "Anastasia": {
       "gender": "female"
@@ -15,3 +24,4 @@
     }
   }
 }
+
