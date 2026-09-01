@@ -1,3 +1,16 @@
 {
-  "characters": {}
+  "characters": {
+    "Nahida": {
+      "gender": "female"
+    },
+    "Anastasia": {
+      "gender": "female"
+    },
+    "Makoto": {
+      "gender": "female"
+    },
+    "Ei": {
+      "gender": "female"
+    }
+  }
 }
